@@ -1,14 +1,2 @@
-- 👋 Hi, I’m @AnimashaunRoheemot
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning all the tools needed to become a data analyst
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach https://www.linkedin.com/in/animashaun-roheemot-16996a362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-https://x.com/jayeola_roheema?s=21
-
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: love learning
-
-<!---
-AnimashaunRoheemot/AnimashaunRoheemot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+am a motivated and detail-oriented Data Analyst with hands-on experience in Excel, SQL, Power BI, and Python. My journey into data analytics began through structured training programs, projects, and self-learning, where I gained skills in data cleaning, visualization, and storytelling to help businesses make informed decisions.
+I am eager to apply my skills to real-world business problems and collaborate with forward-thinking teams. Currently, I’m open to entry-level Data Analyst roles where I can continue to grow, add value, and contribute to data-driven decision-making.”
