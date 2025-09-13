@@ -49,6 +49,6 @@ This repository highlights the projects I’ve worked on using **Excel, SQL, Pow
 
 ## 📬 Contact Me
 - 💼 :  https://www.linkedin.com/in/animashaun-roheemot
-- 📧 Email: roheemotanimashaun@gmail.com
+- 📧 Email: animashaunroheemot04@gmail.com
 
 ✨ I’m currently **open to Data Analyst roles**. Let’s connect and build data-driven solutions together!
