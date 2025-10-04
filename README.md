@@ -48,8 +48,8 @@ Data Cleaning, Exploratory Data Analysis (EDA), Business Analytics, Data Storyt
 ## 🔹 Contact Me  
 📌 *Name:* Animashaun Roheemot  
 📧 *Email:* [animashaunroheemot04@gmail.com]  
-🔗 *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/animashaun-roheemot)  
-💻 *GitHub:* [Your GitHub Profile](https://github.com/your-github-AnimashaunRoheemot)
+🔗 *LinkedIn:*  [LinkedIn](https://www.linkedin.com/in/animashaun-roheemot)  
+💻 *GitHub:* [GitHub](https://github.com/your-github-AnimashaunRoheemot)
 
 
 📊 I help organizations turn data into smarter business decisions and measurable growth.
