@@ -1,54 +1,55 @@
-# 📊 Data Analytics Portfolio
+# 👋 Hi, I’m Animashaun Roheemot  
+### 💻 Certified Data Analyst | Driving Business & Sales Growth with Data  
 
-Welcome to my portfolio! 🚀  
-I am **Roheemot Animashaun**, an Enthusiast **Data Analyst** passionate about transforming raw data into actionable insights.  
-This repository highlights the projects I’ve worked on using **Excel, SQL, Power BI, and Python**.  
-
----
-
-## 👩‍💻 About Me
-- 📍 Based in Nigeria, open to remote & hybrid roles  
-- 🎓 Transitioning into Data Analytics with hands-on projects and continuous learning  
-- 💡 Skilled in **Data Cleaning, Visualization, and Reporting**  
-- 🔎 Interested in business intelligence, sales insights, and process optimization  
+I am a *Data Analyst* who transforms raw data into actionable insights that improve decision-making, drive sales, and increase business efficiency.  
 
 ---
 
-## 📂 Projects
-
-### 🧹 Excel: Sales Data Cleaning & Analysis
-- Removed duplicates, handled missing values, and formatted raw data  
-- Generated sales insights using pivot tables & charts  
-- *Tools:* Excel (Data Cleaning, Pivot Tables, Charts)
-
----
-
-### 📊 Power BI: Marketing Campaign Dashboard
-- Built an interactive dashboard to track **Ad Spend, Impressions, Clicks, and ROI**  
-- Added slicers for Campaign Date & Product to improve interactivity  
-- *Tools:* Power BI (DAX, Measures, Data Modeling)
+## 🔹 What I Do as an Analyst  
+- Clean, organize, and wrangle datasets for accuracy and usability  
+- Analyze business and sales data to uncover trends and opportunities  
+- Build interactive dashboards and reports that guide strategy and execution  
+- Deliver clear insights that both technical and non-technical teams can act on  
 
 ---
 
-### 🗄️ SQL: Retail Sales Insights
-- Queried a retail dataset to answer key business questions:  
-  - Most preferred payment method  
-  - Best-selling products by quantity & revenue  
-  - City & Manager with maximum revenue  
-- *Tools:* SQL (Joins, Group By, Aggregations)
+## 🔹 My Approach  
+I combine analytical thinking with clarity and diplomacy, ensuring every analysis tells a story that supports collaboration, growth, and informed decision-making. I focus on precision,communication,and allign insight with business goals  
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Excel** → Data Cleaning, Analysis, Pivot Tables  
-- **SQL** → Queries, Joins, Aggregations  
-- **Power BI** → Interactive Dashboards, DAX, Data Modeling  
-- **Python** → Pandas, Matplotlib, Data Analysis    
+## 🔹 Tools & Skills  
 
+### 🛠 Data Wrangling & Analysis  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### 📊 Data Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+### ⚡ Automation & Reporting  
+![Excel Macros](https://img.shields.io/badge/Excel%20Macros-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+
+### 🔹Core Competencies
+Data Cleaning, Exploratory Data Analysis (EDA), Business Analytics, Data Storytelling
 ---
 
-## 📬 Contact Me
-- 💼 :  https://www.linkedin.com/in/animashaun-roheemot
-- 📧 Email: animashaunroheemot04@gmail.com
+## 🔹 How I Add Value  
+- Improve efficiency through automation and streamlined reporting  
+- Identify sales trends and customer behavior to increase revenue growth  
+- Highlight underperforming areas and recommend data-backed strategies  
+- Support marketing and sales teams with actionable, data-driven insights  
 
-✨ I’m currently **open to Data Analyst roles**. Let’s connect and build data-driven solutions together!
+---
+## 🔹 Contact Me  
+📌 *Name:* Animashaun Roheemot  
+📧 *Email:* [animashaunroheemot04@gmail.com]  
+🔗 *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/animashaun-roheemot)  
+💻 *GitHub:* [Your GitHub Profile](https://github.com/your-github-AnimashaunRoheemot)
+
+
+📊 I help organizations turn data into smarter business decisions and measurable growth.
